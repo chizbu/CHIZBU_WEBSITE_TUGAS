@@ -1,4 +1,4 @@
-name: Deploy Website CI/CD
+name: Deploy Website TUGAS
 
 on:
   push:
